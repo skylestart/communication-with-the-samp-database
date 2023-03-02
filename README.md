@@ -1,7 +1,10 @@
 Бот в вк для связи с базой данных сервера. Запросы написаны под мод Arizona RP. 
 Установка:
+
 pip install pymysql
+
 pip install vk_api
+
 pip install peewee
 
 Запускаем main.py, и забываем. Бот работает!
